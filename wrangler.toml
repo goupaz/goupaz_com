@@ -1,8 +1,7 @@
 name = "goupaz_com"
-type = "webpack"
-route = ''
-zone_id = ''
-usage_model = ''
+main = "src/pages/index.tsx"
+usage_model = 'bundled'
 compatibility_flags = []
 workers_dev = true
-compatibility_date = "2023-04-17"
+compatibility_date = "2023-04-04"
+node_compat = true

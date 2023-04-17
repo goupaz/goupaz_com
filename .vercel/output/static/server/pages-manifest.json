@@ -1,5 +1,8 @@
 {
-  "/api/events/events": "pages/api/events/events.js",
+  "/api/hiring": "pages/api/hiring.js",
+  "/api/pipline": "pages/api/pipline.js",
+  "/api/gitmade": "pages/api/gitmade.js",
+  "/api/events": "pages/api/events.js",
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
