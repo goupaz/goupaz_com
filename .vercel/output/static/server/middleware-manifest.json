@@ -1,0 +1,24 @@
+{
+  "sortedMiddleware": [],
+  "middleware": {},
+  "functions": {
+    "/api/events/events": {
+      "env": [],
+      "files": [
+        "server/edge-runtime-webpack.js",
+        "server/pages/api/events/events.js"
+      ],
+      "name": "pages/api/events/events",
+      "page": "/api/events/events",
+      "matchers": [
+        {
+          "regexp": "^/api/events/events$",
+          "originalSource": "/api/events/events"
+        }
+      ],
+      "wasm": [],
+      "assets": []
+    }
+  },
+  "version": 2
+}
