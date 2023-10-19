@@ -38,6 +38,8 @@ export default function Home() {
         
         <p>----------</p>
       </h1>
+      <script src="https://platform.linkedin.com/in.js" type="text/javascript"> lang: en_US</script>
+<script type="IN/FollowCompany" data-id="28819624" data-counter="bottom"></script>
       <FacebookShareButton
         url={'http://localhost:3000'} >
         <FacebookIcon size={32}  />
